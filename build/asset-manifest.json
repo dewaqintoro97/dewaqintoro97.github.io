@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dewaqintoro97.github.io/static/css/main.173220b1.chunk.css",
+    "main.js": "/dewaqintoro97.github.io/static/js/main.06cf142f.chunk.js",
+    "main.js.map": "/dewaqintoro97.github.io/static/js/main.06cf142f.chunk.js.map",
+    "runtime-main.js": "/dewaqintoro97.github.io/static/js/runtime-main.7cc46828.js",
+    "runtime-main.js.map": "/dewaqintoro97.github.io/static/js/runtime-main.7cc46828.js.map",
+    "static/js/2.5c406574.chunk.js": "/dewaqintoro97.github.io/static/js/2.5c406574.chunk.js",
+    "static/js/2.5c406574.chunk.js.map": "/dewaqintoro97.github.io/static/js/2.5c406574.chunk.js.map",
+    "index.html": "/dewaqintoro97.github.io/index.html",
+    "precache-manifest.141e2965f28e2f8498793db3f01c1b21.js": "/dewaqintoro97.github.io/precache-manifest.141e2965f28e2f8498793db3f01c1b21.js",
+    "service-worker.js": "/dewaqintoro97.github.io/service-worker.js",
+    "static/css/main.173220b1.chunk.css.map": "/dewaqintoro97.github.io/static/css/main.173220b1.chunk.css.map",
+    "static/js/2.5c406574.chunk.js.LICENSE.txt": "/dewaqintoro97.github.io/static/js/2.5c406574.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dewaqintoro97.github.io/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/dew.png": "/dewaqintoro97.github.io/static/media/dew.7760aecd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cc46828.js",
+    "static/js/2.5c406574.chunk.js",
+    "static/css/main.173220b1.chunk.css",
+    "static/js/main.06cf142f.chunk.js"
+  ]
+}
